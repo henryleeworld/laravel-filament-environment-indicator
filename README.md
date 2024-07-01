@@ -1,9 +1,9 @@
-# Laravel 10 Filament 環境指標
+# Laravel 11 Filament 環境指標
 
 Filament 環境指標採用快速建立簡捷的 TALL（Tailwind CSS、Alpine.js、Laravel 和 Livewire）堆疊應用程式的工具組，根據應用程式所執行的環境給予適合的設定是有助於開發的，再也不會混淆目前環境。
 
 ## 使用方式
-- 打開 php.ini 檔案，啟用 PHP 擴充模組 intl，並重啟服務器。
+- 打開 php.ini 檔案，啟用 PHP 擴充模組 intl 和 zip，並重啟服務器。
 - 把整個專案複製一份到你的電腦裡，這裡指的「內容」不是只有檔案，而是指所有整個專案的歷史紀錄、分支、標籤等內容都會複製一份下來。
 ```sh
 $ git clone
@@ -35,5 +35,5 @@ $ npm run build
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/fVYY82x.png)
+![](https://i.imgur.com/6PQNZZ6.png)
 > 確認目前的環境

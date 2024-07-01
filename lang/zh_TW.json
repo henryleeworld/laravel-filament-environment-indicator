@@ -1,0 +1,6 @@
+{
+    "Administrator": "系統管理員",
+    "Local": "本地環境",
+    "Production": "正式環境",
+    "Staging": "測試環境"
+}
